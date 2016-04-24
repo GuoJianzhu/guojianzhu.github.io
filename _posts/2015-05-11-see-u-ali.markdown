@@ -3,7 +3,7 @@ layout:     post
 title:      "See you, Alibaba "
 subtitle:   "再见，阿里。"
 date:       2015-05-11
-author:     "Hux"
+author:     "guojz"
 header-img: "img/post-bg-see-u-ali.jpg"
 tags:
     - 生活
@@ -99,8 +99,8 @@ Hi all
 
 世界这么大，更要 Keep Contact. 
 
-* 微信：@huxpro （都在群里）
-* 微博：@Hux黄玄
+* 微信：@guojzpro （都在群里）
+* 微博：@guojz黄玄
 * 知乎：@黄玄
 * 博客：<http://huangxuan.me>
 
